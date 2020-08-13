@@ -1,5 +1,7 @@
 # AngularTailwindcssApp
 
+Check out [my article](https://medium.com/@jacobneterer/angular-and-tailwindcss-2388fb6e0bab) on Medium explaining this set up!
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
 ## Development server
